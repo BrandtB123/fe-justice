@@ -10,7 +10,6 @@ function App() {
     <div className="app">
       <main className="content">
         <Routes /> {/* Include the routing component */}
-        <HomeContainer></HomeContainer>
       </main>
     </div>
   );
